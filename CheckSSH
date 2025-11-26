@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "=== SSH Checker ==="
+echo "Checking SSH..."
+
+if systemctl is-active --quiet ssh; then
+    echo "✓ SSH is running"
+else
+    echo "Installing SSH..."
+    sudo systemctl enable ssh
+    sudo systemctl start ssh
+    echo "✓ SSH installed and started"
+fi
