@@ -21,3 +21,5 @@
 ```bash
 # 🌟 ONE COMMAND MAGIC 🌟
 curl -s https://raw.githubusercontent.com/MasterBlockGamer/pi/main/setup.sh | bash
+chmod +x setup.sh masterblock.sh CheckSSH
+./setup.sh
