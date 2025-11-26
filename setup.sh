@@ -294,8 +294,6 @@ main() {
     echo "===================================================================="
 }
 
-# Run main function
-main "$@"
 # ==================== MASTERBLOCK FINAL ANIMATION ====================
 show_masterblock_animation() {
     print_status "Initializing MasterBlock system..."
