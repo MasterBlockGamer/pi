@@ -1,17 +1,23 @@
-# 🧠 MasterBlockGamer - Raspberry Pi Setup
+<div align="center">
 
-> **Ultimate cross-distro setup script for Raspberry Pi development**  
-> *Turn any fresh Pi install into a development powerhouse in one command!*
+# 🧠 MASTERBLOCK GAMER  
+### *Raspberry Pi Development Powerhouse*
 
-![MasterBlock](https://img.shields.io/badge/MasterBlock-Ready-green)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Compatible-red)
-![Cross-Distro](https://img.shields.io/badge/Cross--Distro-Universal-blue)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Complete%20Setup-C51A4A?style=for-the-badge&logo=raspberrypi)
+![Cross-Platform](https://img.shields.io/badge/Cross--Distro-Universal-blue?style=for-the-badge&logo=linux)
+![Automated](https://img.shields.io/badge/100%25-Automated-success?style=for-the-badge&logo=robot)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-## 🚀 Quick Start
+**✨ One command to rule them all ✨**
+
+*Turn any fresh Raspberry Pi into a full development workstation with a single command*
+
+</div>
+
+---
+
+## 🚀 **Blazing Fast Start**
 
 ```bash
-# Clone and run
-git clone https://github.com/MasterBlockGamer/pi-setup.git
-cd pi-setup
-chmod +x setup.sh masterblock.sh CheckSSH
-./setup.sh
+# 🌟 ONE COMMAND MAGIC 🌟
+curl -s https://raw.githubusercontent.com/MasterBlockGamer/pi/main/setup.sh | bash
