@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 MASTERBLOCK GAMER  
+# 🧠 MASTERBLOCK 🧠
 ### *Raspberry Pi Development Powerhouse*
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Complete%20Setup-C51A4A?style=for-the-badge&logo=raspberrypi)
