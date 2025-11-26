@@ -21,6 +21,13 @@
 ```bash
 # 🌟 ONE COMMAND MAGIC 🌟
 curl -s https://raw.githubusercontent.com/MasterBlockGamer/pi/main/setup.sh | bash
-# 🌟 SSH setup 🌟
+
+# OR if you clone first:
+git clone https://github.com/MasterBlockGamer/pi.git
+cd pi
 chmod +x setup.sh masterblock.sh CheckSSH
 ./setup.sh
+
+# 🔐 SSH SETUP ONLY
+chmod +x CheckSSH
+./CheckSSH
